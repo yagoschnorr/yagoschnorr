@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 - Sou estudante do curso de Ciência da Computação no CESUPA 📚
-- Sou um entusiasta do Tênis de Mesa 🏓
 
 <!--
 **yagoschnorr/yagoschnorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
