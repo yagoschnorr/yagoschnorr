@@ -1,18 +1,16 @@
 ## Hi there 👋
 
-- Sou estudante do curso de Ciência da Computação no CESUPA 📚
+## Sobre mim 🚀
 
-<!--
-**yagoschnorr/yagoschnorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estudante de Ciência da Computação no [Cesupa](https://www.cesupa.br) 📚
+- Pesquisador em Inteligência Artificial e Engenharia de Software no grupo [LAPES - Laboratório de Pesquisa de Engenharia de Software](https://github.com/lapes-engenharia-de-software) 🔎
+- Estou buscando aprimorar minhas habilidades na área de Inteligência Artificial e Ciência de Dados
+- Linguagens de Programação:
+  - **Python**
+  - **Java** 
 
-Here are some ideas to get you started:
+## Contatos 📞
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| 👨‍🎓 LinkedIn | ✉️ E-mail |
+| - | - |
+| [linkedin/yagoschnorr](https://www.linkedin.com/in/yagoschnorr/) | [yago24070054@aluno.cesupa.br](mailto:yago24070054@aluno.cesupa.br) |
